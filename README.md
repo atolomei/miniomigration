@@ -7,7 +7,7 @@
   The API methods may be different for newer versions of the Minio SDK</p>
   
   <p>Note that some <b>objectName</b> may be valid for Minio but not for Odilon, in those cases 
-  the migration process converts the objectName into a Odilon supported objectName. The list of objectNames converted is <b>./logs/bucket-object.log</p>b>.</p>
+  the migration process converts the objectName into a Odilon supported objectName. The list of objectNames converted is <b>./logs/bucket-object.log</p></b>.</p>
   
   <p>Minio SDK returns <b>bucketName</b>, <b>objectName</b> and other values but it does not return the file name (like <i>"test.pdf"</i>), 
   therefore it is not possible to know the file name from Minio SDK. 
