@@ -38,3 +38,32 @@
   <li>-DforceAll=false</li>
   </ul>
   </p>
+
+<h2>Download</h2>
+<p>
+<ul>
+<li><a href="https://odilon.io#download" target="_blank">Odilon Server</a></li>	
+<li><a href="https://odilon.io#download" target="_blank">Odilon Java SDK</a></li>	
+</ul>
+</p>
+
+<h2>Resources</h2>
+<p>
+<ul>
+<li><a href="https://odilon.io" target="_blank">Odilon website</a></li>	
+<li><a href="https://odilon.io/configuration-linux.html" target="_blank">Installation, Configuration and Operation on Linux</a></li>	
+<li><a href="https://odilon.io/configuration-windows.html" target="_blank">Installation, Configuration and Operation on Windows</a></li>		
+<li><a href="https://odilon.io/development.html" target="_blank">Java Application Development with Odilon</a></li>	
+<li><a href="https://odilon.io/javadoc/index.html" target="_blank">Odilon SDK Javadoc</a></li>	
+<li><a href="https://twitter.com/odilonSoftware" target="_blank">Twitter</a></li>
+</ul>
+</p>
+
+<h2>SDK Source Code</h2>
+<p>
+<ul>
+<li class="list-item"><a href="https://github.com/atolomei/odilon-client" target="_blank">odilon-client</a></li>
+<li class="list-item"><a href="https://github.com/atolomei/odilon-model" target="_blank">odilon-model</a></li>
+</ul>
+</p>
+
