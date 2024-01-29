@@ -5,7 +5,7 @@
 
   <p>It is a multithreaded gateway that iterates reading a buffer of items from Minio and sending them in parallel to Odilon.</p>
 
-  <p>The client version of the Minio SDK used here is <b>6.0.13</b> (see pom.xml). <br/>
+  <p>The client version of the Minio SDK used here is <b>6.0.13</b> (see <b>pom.xml<b/>). <br/>
   The API methods may be different for newer versions of the Minio SDK</p>
   
   <p>Note that some <b>objectName</b> may be valid for Minio but not for Odilon, in those cases 
