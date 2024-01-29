@@ -2,7 +2,9 @@
 
   <p>This program migrates a <a href="https://minio.io">Minio Server</a> 
   to <a href="https://odilon.io">Odilon</a></p>
-  
+
+  <p>It is a multithreaded gateway that iterates reading a buffer of items from Minio and sending them in parallel to Odilon.</p>
+
   <p>The client version of the Minio SDK used here is <b>6.0.13</b> (see pom.xml). <br/>
   The API methods may be different for newer versions of the Minio SDK</p>
   
