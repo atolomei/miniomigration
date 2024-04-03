@@ -103,6 +103,9 @@ import io.odilon.util.Check;
  * <li>-DforceAll=false</li>
  * </ul>
  * </p>
+ * 
+ * @author atolomei@novamens.com (Alejandro Tolomei)
+ * 
  */
 public class MinioMigration {
 			
