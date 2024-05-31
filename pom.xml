@@ -28,7 +28,7 @@
 	<maven-jar-plugin-version>3.3.0</maven-jar-plugin-version>
 	
 	<minio-version>6.0.13</minio-version>
-	<odilon-version>1.1-beta</odilon-version>
+	<odilon-version>1.6-beta</odilon-version>
 	
   </properties>
 
@@ -45,13 +45,13 @@
         </developer>
     </developers>
 
-	<repositories>
+	<!--repositories>
 		<repository>
 				<id>novamens-releases</id>
 				<url>https://maven.novamens.com/nexus/content/repositories/releases/</url>
 		</repository>
 		
-	</repositories>
+	</ repositories -->
     
     
     <dependencies>
